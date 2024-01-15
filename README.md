@@ -1,2 +1,3 @@
-# Docs
-Contains all important information about INS.EVM.
+# Home
+
+Welcome to our docs! This docs contain all important information about INS.EVM .
