@@ -1,3 +1,4 @@
-# Table of Contents
+# Table of contents
 
-* [Exodus from Egypt](Passover.md)
+* [README](README.md)
+* [👣 Exodus from Egypt](Passover.md)
