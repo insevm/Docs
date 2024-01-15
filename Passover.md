@@ -1,6 +1,8 @@
 ---
-description: YHVH will lead us out of Egypt, and we will leave Egypt with gold.
-cover: .gitbook/assets/chuaiji (2).png
+description: >-
+  YHVH will lead us out of Egypt, and we will leave Egypt with gold, and follow
+  YHVH's command to observe the Passover.
+cover: .gitbook/assets/chuaiji.png
 coverY: 0
 ---
 
