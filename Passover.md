@@ -14,7 +14,7 @@ Coming soon...
 
 
 
-### INSC+
+## INSC+
 
 As is widely acknowledged, **INSC** represents the first-ever inscription on the Ethereum **Virtual Machine (EVM)** in history. It innovatively employs smart contract event data to store inscription information, thereby ensuring its permanent presence on the Ethereum blockchain. Moreover, this approach guarantees decentralization and significantly enhances the programmability of inscriptions, unlocking a broader spectrum of application scenarios.
 
