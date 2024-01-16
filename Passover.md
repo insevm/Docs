@@ -58,13 +58,15 @@ Take for example tokenId 3, which was stolen right from the start. Therefore, th
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+We have organized the owner of 1st category data in [this sheet](https://docs.google.com/spreadsheets/d/1Ccvl4TMV6Qd3B6FsIwBjn3xKu3YlxCWDGftPimGNtrg/edit?usp=sharing). Please review it carefully, and if you think there are any inaccuracies in the data, please submit through this [Google form](https://forms.gle/BVM8oHg4FnwYtBV2A).
+
 #### 2st category: Owners in the snapshot who sold their INSC within 10 hours after the attack occurred
 
 For instance, tokenId 203, where the owner in the snapshot successfully sold it after block **18888315**. Therefore, they need to return the proceeds from the sale in order to obtain the eligibility to claim **INSC+** for tokenId 203. The refund amount is **0.0088 ETH** (The sheet uses scientific notation, representing 8.8 \* 10^15 wei, where 1 ETH = 10^18 wei, so it is 0.0088 ETH).
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-We have organized the Level 1 Refund data in this table. Please review it carefully, and if you think there are any inaccuracies in the data, please submit through [this Google form](https://forms.gle/fCZHqN1LFxfeUBQ9A).
+We have organized the Level 1 Refund data in [this sheet](https://docs.google.com/spreadsheets/d/15\_MRdvHz0Su\_mP7cwOHyrLYFCyIJRM\_V-nFzIGMdiuA/edit?usp=sharing). Please review it carefully, and if you think there are any inaccuracies in the data, please submit through [this Google form](https://forms.gle/fCZHqN1LFxfeUBQ9A).
 
 
 
@@ -89,6 +91,12 @@ Initially, **0x01c80b45ba04fab5680864b9db3d4074f817de91** has 36 hours to choose
 ### How much money should be refunded?
 
 Refund amount = Price - Fee.&#x20;
+
+### How will the refund money be distributed?
+
+Before finalizing the compensation plan, we will prepare a hardware wallet to act as a vault, storing all the funds that come from refunds. Once the compensation plan is established, it will be used to compensate users who suffered losses in the secondary market due to the hacker attack.
+
+
 
 ## Compensation
 
