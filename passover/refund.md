@@ -1,3 +1,9 @@
+---
+description: >-
+  As a decentralized application, INS.EVM should not allow the occurrence of
+  double spending.
+---
+
 # Refund
 
 ### What is the meaning of 'refund'?
