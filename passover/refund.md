@@ -68,4 +68,4 @@ Refund amount = Price - Fee.&#x20;
 
 ### How will the refund money be distributed?
 
-Before finalizing the compensation plan, we will prepare a hardware wallet to act as a vault, storing all the funds that come from refunds. Once the compensation plan is established, it will be used to compensate users who suffered losses in the secondary market due to the hacker attack.
+Before finalizing the compensation plan, we will prepare a hardware wallet to act as a vault([0xe7aD336026055B8DD42a1AD2102A03f0E16B64bD](https://etherscan.io/address/0xe7ad336026055b8dd42a1ad2102a03f0e16b64bd)), storing all the funds that come from refunds. Once the compensation plan is established, it will be used to compensate users who suffered losses in the secondary market due to the hacker attack.
