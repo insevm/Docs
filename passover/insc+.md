@@ -32,11 +32,7 @@ In simple terms, slot is a special inscription, and it is the first inscription 
 
 Slot is a vessel of FT, if you do not have a slot, you can not receive any FT, and only the FT balance in the slot can be transferred. When you want to transfer the FTs from your slot to a new address, an inscription with a balance equal to the transfer amount will be automatically minted for the new address as his slot. But, the max amount of inscriptions is 63000(21000 \* 3). If all inscriptions has been minted, the new address will need to purchase an inscription before receiving FTs.
 
-### What is a slot in INSC+?
 
-In simple terms, slot is a special inscription, and it is the first inscription received by each address. And among all inscriptions, the slot can only be transferred last. If you want to sell your slot, please make sure it is your last inscription. So, when you trade INSC+ on the NFT market, you may encounter some compatibility issues because existing NFT markets cannot identify whether your current Inscription is your Slot.
-
-Slot is a vessel of FT, if you do not have a slot, you can not receive any FT, and only the FT balance in the slot can be transferred. When you want to transfer the FTs from your slot to a new address, an inscription with a balance equal to the transfer amount will be automatically minted for the new address as his slot. But, the max amount of inscriptions is 63000(21000 \* 3). If all inscriptions has been minted, the new address will need to purchase an inscription before receiving FTs.
 
 ### How to use the FTs in INSC+?
 
