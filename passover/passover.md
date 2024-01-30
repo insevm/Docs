@@ -1,5 +1,5 @@
 ---
-description: 逾越节的细节
+description: The details of Passover
 ---
 
 # Passover
