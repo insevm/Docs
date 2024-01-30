@@ -69,3 +69,4 @@ Below are the on-site investigation pictures of that location in the Red Sea:
 
 <figure><img src="../.gitbook/assets/过红海2 (1).jpg" alt="" width="563"><figcaption><p>Sonar Survey of the Seabed Topography</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>The pillars established by King Solomon, marking locations on both sides of the Red Sea</p></figcaption></figure>
